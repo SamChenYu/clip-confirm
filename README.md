@@ -1,2 +1,4 @@
 # clip-confirm
-(⌘ + C) confirms with a notification
+Sends a push notification whenever you (⌘ + C) cuz macos can just ignore you sometimes. 
+
+Prevents me from spamming copy shortcuts
